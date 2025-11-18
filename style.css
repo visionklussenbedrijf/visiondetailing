@@ -1,4 +1,4 @@
-/* Reset een beetje */
+/* Reset */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -27,7 +27,7 @@ header h1 {
 }
 
 header a {
-    color: #00aaff; /* Lichtblauw voor link */
+    color: #00aaff; /* Lichtblauw voor telefoonlink */
     text-decoration: none;
     font-weight: bold;
 }
@@ -40,7 +40,7 @@ main {
     flex-grow: 1;
     max-width: 600px;
     margin: 0 auto;
-    background-color: #003366; /* Iets lichter navy */
+    background-color: #003366; /* Lichter navy blauw voor content */
     padding: 20px;
     border-radius: 10px;
 }
@@ -97,4 +97,3 @@ footer {
     font-size: 0.9rem;
     color: #bbbbbb;
 }
-
